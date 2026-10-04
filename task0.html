@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task 0 - Responsive Typography</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    h1 {
+      font-size: 22px;
+    }
+    h2 {
+      font-size: 18px;
+    }
+    p {
+      font-size: 14px;
+    }
+    .device-info {
+      background-color: #ffe6e6;
+      padding: 10px;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    @media (min-width: 768px) and (max-width: 991px) {
+      h1 {
+        font-size: 28px;
+      }
+      h2 {
+        font-size: 22px;
+      }
+      p {
+        font-size: 16px;
+      }
+      .device-info {
+        background-color: #e6f2ff;
+      }
+    }
+
+    @media (min-width: 992px) {
+      h1 {
+        font-size: 36px;
+      }
+      h2 {
+        font-size: 26px;
+      }
+      p {
+        font-size: 18px;
+      }
+      .device-info {
+        background-color: #e6ffe6;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Task 0: Responsive Typography</h1>
+  <div class="device-info">Resize your browser window to test font sizes!</div>
+  
+  <h2>Subheading Section</h2>
+  <p>
+    This webpage demonstrates responsive typography using pure CSS media queries. 
+    The font sizes adapt seamlessly across Mobile, Tablet, and Desktop screen sizes.
+  </p>
+
+</body>
+</html>
