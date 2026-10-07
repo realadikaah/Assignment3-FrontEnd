@@ -44,9 +44,6 @@ Developed a complete portfolio page (`task4.html`, `task4.css`) combining both C
   - Right column (`col-lg-4`): Sidebar containing personal bio and contact details.
 - **Footer:** Full-width sticky-style footer.
 - Custom CSS media queries were added for font-size adjustments and responsive spacing across screen resolutions.
-<img width="1440" height="812" alt="task0" src="https://github.com/user-attachments/assets/ec0cad78-bb51-4a3e-9309-696db93a45ef" />
-<img width="1440" height="812" alt="Снимок экрана — 2026-10-04 в 22 30 39" src="https://github.com/user-attachments/assets/103d2f37-5316-43f2-88ca-397b108950b4" />
-<img width="1440" height="812" alt="Снимок экрана — 2026-10-04 в 22 30 39" src="https://github.com/user-attachments/assets/9ff2a537-6bee-44c7-963a-21cadd549c40" />
 
 
 ## Brief Summary of Work Process
